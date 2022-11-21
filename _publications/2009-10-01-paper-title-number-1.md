@@ -1,13 +1,11 @@
 ---
-title: 'Derin Uzay İstasyonu - Ay Yüzeyi Arası İnsan ve Kargo Taşıma Aracı Tasarımı (Multi-Use Lunar Transportation Vehicle Utilizing Deep Space Gateway)'
+title: 'Multi-Use Lunar Transportation Vehicle Utilizing Deep Space Gateway (Derin Uzay İstasyonu - Ay Yüzeyi Arası İnsan ve Kargo Taşıma Aracı Tasarımı)'
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-09-01
-venue: '8. Ulusal Havacılık ve Uzay Konferansı (8. National Aerospace Conference )'
+date: 2020-05-01
+excerpt: 'Multi-Use Lunar Transportation Vehicle Utilizing Deep Space Gateway is a design project of a space vehicle that will be operated from the Deep Space Gateway to the lunar surface.'
+venue: '8. National Aerospace Conference in Turkey (8. Ulusal Havacılık ve Uzay Konferansı)'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=UtkbGQcAAAAJ&citation_for_view=UtkbGQcAAAAJ:u-x6o8ySG0sC'
-citation: 'Umut Demir (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Umut Demir, Eser Gul (2020). 8. National Aerospace Conference in Turkey'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)

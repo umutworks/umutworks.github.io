@@ -9,6 +9,4 @@ venue: '2021 American Control Conference (ACC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9483038'
 citation: 'A. S. Satir, U. Demir, G. G. Sever and N. K. Ure, "Nonlinear Model Based Guidance with Deep Learning Based Target Trajectory Prediction Against Aerial Agile Attack Patterns," 2021 American Control Conference (ACC), 2021, pp. 2607-2612, doi: 10.23919/ACC50511.2021.9483038'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
