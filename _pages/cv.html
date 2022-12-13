@@ -7,7 +7,28 @@ redirect_from:
 ---
 {% include base_path %}
 
-<header>
+
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>PDF in HTML</title>
+</head>
+  
+<body>
+    <center>
+        <h1 style="color: green">GeeksforGeeks</h1>
+        <h3>Embedding the PDF file Using Object Tag</h3>
+        <object data="files/cv_umut_demir-2.pdf" 
+                width="800" 
+                height="500"> 
+        </object>
+    </center>
+</body>
+  
+</html>
+
+<!-- <header>
   <h1><span style="color: #5499C7;">Education</span></h1>
 <hr color = "#5499C7" size="4">
 
@@ -105,4 +126,4 @@ M.Sc. in Aerospace Engineering, Istanbul Technical University. <div style='float
 
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
