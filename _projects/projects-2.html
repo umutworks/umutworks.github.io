@@ -1,7 +1,55 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "SUMRU: Large Scale Swarm to Swarm Air Combat Strategies for Unmanned Aerial Vehicles"
+excerpt: "This project focuses on development of deep neural network models for behavioral cloning of fighter aircraft maneuvers. In particular, we focus on active learning methods where the data is obtained from real pilots in an interactive manner.  <br/>
+<b>Partners</b>:  Presidency of Defence Industries of Turkey  <br/>
+<b>Supervisor</b>: Assoc. Prof. Dr. Nazim Kemal Ure  <br/>
+<b>Dates</b>: 2022 - Present  <br/>
+<img src='/images/ssblogo.png' width='500' />"
 collection: projects
 ---
+<b>Partners</b>:  Presidency of Defence Industries of Turkey  <br/>
+<b>Supervisor</b>: Assoc. Prof. Dr. Nazim Kemal Ure  <br/> <br/>
+<b>Dates</b>: 2022 - Present  <br/>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Aerial attack strategies have changed drastically in recent years due to advances in unmanned aerial vehicle technologies.
+The United States(DARPA OFFensive Swarm-Enabled Tactics), Russia(Lightning Project), France(Icarus Project) demonstrated that attacks can be carried out by a swarm of more than a hundred drones.
+DARPAs current OFFSET studies are focusing on swarms whose numbers exceed hundreds. Since existing conventional aerial defense systems are optimized for a small number of heavy-hitting adversaries such as cruise missiles or fighter aircraft, these systems are often in a critical disadvantage against large-scale aerial swarm attacks that cover a wide area.
+Thus, defending against the aerial swarm attacks is one of the most important issues in the modern defense industry. <br/> <br/>
+
+<b>Contribution - 1</b><br/> <br/>
+
+The main contribution of this work is a reinforcement
+learning (RL) framework that computes engagement plans
+against large-scale swarm to swarm attacks, without relying
+on any hard assumptions regarding the strategy and dynamics
+of the adversarial swarm. <br/> <br/>
+
+
+<img src='/images/sumru1.png' width='500' />  <br/>
+The proposed swarm-to-swarm learning and planning framework. The controlled swarm density is represented by blue grids, whereas the adversarial swarm occupies the red grids. The high level RL algorithm decides allocation of engagements between units, whereas the low level algorithm solves the independent multi- agent PE games at each grid. Two layers are connected to each other through the reward signal, which carries performance metrics from the solution of the low level PE problem.<br/>
+<img src='/images/sumru2.png' width='500' />  <br/>
+Trajectories for 3 pursuers(blue triangle) and 1 evader (red circle) under the area minimization strategy.
+Each shaded area represents Voronoi cell of the related point. <br/>
+<img src='/images/sumru3.png' width='500' />  <br/>
+Density distributions throughout an episode: 100 defenders(blue), 50 intruders(red) <br/> <br/>
+
+<b>Contribution - 2</b><br/>
+
+In addition, another approach has progressed as follows. We take a similar approach to the Viscek model.
+The Vicsek model is a simple model used for describing collective motion and swarming.
+In the original Vicsek model, agents maintains a constant forward speed and interact with the swarm by aligning their heading direction with the average heading of their neighbours in a certain Euclidean radius.
+In other words, it assumes that flocking is a kind of self alignment behaviour. <br/> <br/>
+
+
+
+<img src='/images/sumru4.png' width='500' />  <br/>
+The proposed swarm-to-swarm learning and planning framework. In the first figure, the blue and black dots are the controlled agents and adversarial agents, respectively. The blue lines and red curves are the Gaussian mixture models.
+In the second figure, the RL policy controls how many groups to divide the swarm into and generates control inputs for each group. In the last figure, agents belonging to the group samples action from the group distribution and simulates these actions. Finally, a reward signal is fed back to RL algorithm. <br/> <br/>
+
+<img src='/images/sumru5.png' width='700' />  <br/>
+100 Controlled Swarm Units(Blue Dots), 50 Adversarial Swarm Units(Black Dots), All adversarial units are eliminated at end of Step-4 <br/> <br/>
+
+
+<img src='/images/sumru6.png' width='800' />  <br/>
+50 Controlled Swarm Units(Blue Dots), 50 Adversarial Swarm Units(Black Dots), All adversarial units are eliminated at end of Step-5 <br/> <br/>
