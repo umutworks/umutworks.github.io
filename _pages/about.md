@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am an Graduate Researcher at [Istanbul Technical University(ITU)](http://itu.edu.tr/en) [Artificial Intelligence and Data Science Research Center](http://ai.itu.edu.tr/).
+I am a Graduate Researcher at [Istanbul Technical University(ITU)](http://itu.edu.tr/en) [Artificial Intelligence and Data Science Research Center](http://ai.itu.edu.tr/).
 
 I received my MSc. and BSc. degree from [Istanbul Technical University](http://itu.edu.tr/en)**,** [Department of Aeronautics and Astronautics](https://uubf.itu.edu.tr/en). At ITU, I was a graduate and undergraduate researcher at the [Artificial Intelligence and Data Science Research Center](http://ai.itu.edu.tr/) and [Aerospace Research Center, Control and Avionics Lab.](https://arc.itu.edu.tr)
 
